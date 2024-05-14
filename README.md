@@ -1,23 +1,22 @@
-# Sobre mim:
+# About me:
 
-Salve pessoas o/
+Hey there! o/
 
-Sou o Ricardo Monteiro, apaixonado por tecnologia, buscando desafios como software engineer no stack TypeScript/Node/React.
+I'm Ricardo Monteiro, a technology enthusiast seeking challenges as a software engineer specializing in the TypeScript/Node/React stack.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-monteiro) 
 
-# Carreira
+# Career
 
-Já passou de duas décadas que atuo profissionalmente com produtos digitais.
+I have over two decades of professional experience with digital products.
 
-Entre 2000 e 2011: Estive focado como um desenvolvedor full-stack, atuando com o stack PHP/jQuery/HTML/CSS.
+**2000 - 2011:** I worked as a full-stack developer, using the PHP/jQuery/HTML/CSS stack.
 
-Entre 2011 e 2018: Entrei na corrida das start-ups, fui cofundador de 2 empreitadas, o SitePX, que era um construtor de sites (PHP/jQuery/MySQL/Nginx/Memcached/AWS), e o Beracode, um construtor de comunidades (Node/Angular/MongoDB/Nginx/Varnish/Redis/AWS). Neste período fui o CTO, mas também fazia o papel de TL na gestão do time.
+**2011 - 2018:** I co-founded two startups: SitePX, a website builder (PHP/jQuery/MySQL/Nginx/Memcached/AWS), and Beracode, a community builder (Node/Angular/MongoDB/Nginx/Varnish/Redis/AWS). During this period, I served as CTO and also took on the role of team lead, managing the development teams.
 
-Entre 2018 e 2024: Com o fechamento do SitePX e minha saída da sociedade do Beracode, decidi atuar como Product Manager, passando pela Contabilizei e Softplan, isso me levou a chegar na diretoria de produtos digitais da Talentify.
+**2018 - 2024:** After SitePX closed and I left Beracode, I worked as a Product Manager at Contabilizei and Softplan, eventually becoming the Director of Digital Products at Talentify.
 
-Agora em 2024: Neste ano fiz uma pergunta, o que faz meus olhos brilharem? O que eu gosto de passar o dia fazendo? O que mais gosto de estudar? A resposta era programar. Eu amo ser Dev.
-Decidi investir um trimestre de estudos, para reciclar meus conhecimentos, e com isso acumular bons certificados, e agora meu foco é buscar atuar como um desenvolvedor novamente.
+**2024:** This year, I asked myself what truly makes my eyes light up. The answer was clear: programming. I love being a developer. I decided to invest a quarter in studying to refresh my knowledge and earn new certifications. Now, my focus is to return to working as a developer.
 
 
 # Tech Stack:
