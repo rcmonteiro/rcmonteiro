@@ -13,7 +13,8 @@ export const Hero = () => {
           </p>
         </div>
         <Image
-          src="https://github.com/rcmonteiro.png"
+          src="/rcmonteiro.jpeg"
+          priority
           height={256}
           width={256}
           className="rounded-full border-4 border-highlight"

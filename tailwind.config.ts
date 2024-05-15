@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     fontFamily: {
       default: 'Poppins, sans-serif',
-      mono: 'JetBrains Mono, mono',
+      mono: 'var(--font-mono)',
     },
     colors: {
       white: '#fff',
