@@ -7,13 +7,13 @@ export default async function Home() {
   const postService = new PostService(new FilePostRepository())
   const posts = await postService.findRecent(10)
   return (
-    <main className="max-w-screen-xl">
+    <main className="space-y-24">
       <Hero />
-      <div className="m-16 mt-24 space-y-8">
+      <section className="space-y-8">
         {posts.map((post) => (
           <PostItem key={post.id} post={post} />
         ))}
-      </div>
+      </section>
     </main>
   )
 }

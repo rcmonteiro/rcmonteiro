@@ -4,7 +4,7 @@ interface IPostTags {
 
 export const PostTags = ({ children }: IPostTags) => {
   return (
-    <div className="flex w-full gap-4 mb-4">
+    <div className="flex gap-4 mb-4">
       {children.map((tag) => {
         return (
           <span

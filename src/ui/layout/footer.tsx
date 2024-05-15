@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export const Footer = () => {
   return (
-    <footer className="flex m-4 gap-4 items-center justify-end max-w-screen-xl">
+    <footer className="flex m-4 gap-4 items-center justify-end">
       <span>&copy; {dayjs().year()} rcmonteiro. All rights reserved.</span>
       <Link
         className="text-highlight"

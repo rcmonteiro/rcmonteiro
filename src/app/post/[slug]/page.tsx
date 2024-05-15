@@ -26,7 +26,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
   }
 
   return (
-    <main className="my-4 mx-8 max-w-screen-xl">
+    <main>
       <PostProject project={post.project} date={post.date} />
       <PostTitle>{post.title}</PostTitle>
       <PostTags>{post.tags}</PostTags>

@@ -25,11 +25,13 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${base.className} ${mono.variable}`}>
       <body
-        className={`font-default antialiased h-screen bg-dark-900 text-default justify-center grid grid-rows-[10rem_1fr_10rem]`}
+        className={`font-default antialiased h-screen bg-dark-900 text-default mx-auto p-4`}
       >
-        <Header />
-        {children}
-        <Footer />
+        <div className="max-w-5xl w-full h-screen grid grid-rows-[8rem_1fr_8rem] mx-auto gap-8">
+          <Header />
+          {children}
+          <Footer />
+        </div>
       </body>
     </html>
   )
