@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Setup monorepo with Turborepo"
 date: "2024-05-14T18:50:00.000Z"
 project: "Travel Booking Hub"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis rhoncus velit, eget finibus tortor sagittis et..."
@@ -12,8 +12,8 @@ tags: ["docker", "turborepo"]
 #### Heading 4
 Loren ipsum...
 
-- Teste
-- Outro teste
+- Setup
+- Outro teste!
 
 
 

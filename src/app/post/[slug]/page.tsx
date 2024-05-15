@@ -12,7 +12,7 @@ export async function generateStaticParams() {
   const postsDirectory = join(process.cwd(), '_posts')
   const postSlugs = fs.readdirSync(postsDirectory)
   return postSlugs.map((slug) => ({
-    slug: slug.replace(/\.md/, ''),
+    slug: slug.replace(/\.md$/, ''),
   }))
 }
 

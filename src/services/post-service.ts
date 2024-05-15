@@ -7,4 +7,8 @@ export class PostService {
   public async findBySlug(slug: string): Promise<Post | null> {
     return await this.postRepository.findBySlug(slug)
   }
+
+  public async findRecent(limit: number): Promise<Post[]> {
+    return await this.postRepository.findRecent(limit)
+  }
 }

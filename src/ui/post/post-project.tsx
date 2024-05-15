@@ -2,7 +2,7 @@ import dayjs from 'dayjs'
 
 interface IPostProject {
   project: string
-  date: string
+  date: Date
 }
 
 export const PostProject = ({ project, date }: IPostProject) => {

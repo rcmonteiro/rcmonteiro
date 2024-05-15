@@ -5,6 +5,7 @@ import html from 'remark-html'
 export interface ParsedMarkdown {
   title: string
   content: string
+  excerpt: string
   project: string
   tags: string[]
   date: string
@@ -25,6 +26,7 @@ export class MarkdownParser {
       tags: data.tags,
       date: data.date,
       project: data.project,
+      excerpt: data.excerpt,
       content: body.toString(),
     }
   }

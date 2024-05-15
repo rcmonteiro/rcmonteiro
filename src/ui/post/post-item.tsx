@@ -4,20 +4,25 @@ import { PostProject } from './post-project'
 import { PostTags } from './post-tags'
 import { PostTitle } from './post-title'
 
-export const PostItem = () => {
+export interface IPostItem {
+  post: {
+    id: string
+    project: string
+    date: Date
+    title: string
+    tags: string[]
+    excerpt: string
+  }
+}
+
+export const PostItem = ({ post }: IPostItem) => {
   return (
     <div className="border-b-1 border-base">
-      <Link className="no-underline" href="/post/hello">
-        <PostProject
-          project="Travel Booking Hub"
-          date="2024-05-14T18:50:00.000Z"
-        />
-        <PostTitle>Setup mono repo with turborepo</PostTitle>
-        <PostTags>{['docker', 'turborepo']}</PostTags>
-        <PostExcerpt>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis
-          rhoncus velit, eget finibus tortor sagittis et
-        </PostExcerpt>
+      <Link className="no-underline" href={`/post/${post.id}`}>
+        <PostProject project={post.project} date={post.date} />
+        <PostTitle>{post.title}</PostTitle>
+        <PostTags>{post.tags}</PostTags>
+        <PostExcerpt>{post.excerpt}</PostExcerpt>
       </Link>
     </div>
   )
