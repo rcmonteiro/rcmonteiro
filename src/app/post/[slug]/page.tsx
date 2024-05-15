@@ -5,6 +5,16 @@ import { PostProject } from '@/ui/post/post-project'
 import { PostTags } from '@/ui/post/post-tags'
 import { PostTitle } from '@/ui/post/post-title'
 import { notFound } from 'next/navigation'
+import * as fs from 'node:fs'
+import { join } from 'node:path'
+
+export async function generateStaticParams() {
+  const postsDirectory = join(process.cwd(), '_posts')
+  const postSlugs = fs.readdirSync(postsDirectory)
+  return postSlugs.map((slug) => ({
+    slug,
+  }))
+}
 
 export default async function Post({ params }: { params: { slug: string } }) {
   const slug = params.slug
