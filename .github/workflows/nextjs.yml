@@ -61,7 +61,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./out
-          publish_branch: gh-pages
+          publish_branch: main
 #
 #      - name: Upload artifact
 #        uses: actions/upload-pages-artifact@v3
