@@ -8,10 +8,16 @@ export const Header = () => {
         <h1 className="text-2xl font-bold font-mono">&lt;rcmonteiro/&gt;</h1>
       </Link>
       <nav className="flex justify-end gap-4 items-center">
-        <Link href="https://www.linkedin.com/in/ricardo-monteiro/">
+        <Link
+          href="https://www.linkedin.com/in/ricardo-monteiro/"
+          aria-description="rcmonteiro's Linkedin profile"
+        >
           <LinkedinLogo size={32} weight="light" />
         </Link>
-        <Link href="https://github.com/rcmonteiro/">
+        <Link
+          href="https://github.com/rcmonteiro/"
+          aria-description="rcmonteiro's Github profile"
+        >
           <GithubLogo size={32} weight="light" />
         </Link>
       </nav>

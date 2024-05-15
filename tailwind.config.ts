@@ -15,7 +15,7 @@ const config: Config = {
       white: '#fff',
       black: '#000',
       default: '#F2F2F2',
-      highlight: '#7C69EF',
+      highlight: '#97EB34',
       main: '#335EEA',
       danger: '#EB5757',
       dark: {
