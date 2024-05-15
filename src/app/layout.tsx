@@ -6,7 +6,7 @@ import { JetBrains_Mono as Mono, Poppins } from 'next/font/google'
 import './globals.css'
 
 const base = Poppins({ subsets: ['latin'], weight: ['400', '700'] })
-export const mono = Mono({
+const mono = Mono({
   subsets: ['latin'],
   weight: ['400', '700'],
   variable: '--font-mono',
