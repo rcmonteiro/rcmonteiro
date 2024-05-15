@@ -2,9 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   trailingSlash: true,
-  exportPathMap: async function (defaultPathMap) {
-    return defaultPathMap
-  },
+  output: 'export',
   images: {
     remotePatterns: [
       {
