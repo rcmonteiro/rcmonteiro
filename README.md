@@ -5,6 +5,8 @@ Hey there! o/
 I'm Ricardo Monteiro, a technology enthusiast seeking challenges as a software engineer specializing in the TypeScript/Node/React stack.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-monteiro) 
+[![Site](https://img.shields.io/badge/rcmonteiro.com-335EEA)](https://rcmonteiro.com) 
+
 
 # Career
 
