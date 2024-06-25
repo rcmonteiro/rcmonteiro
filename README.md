@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-monteiro) 
 [![Site](https://img.shields.io/badge/rcmonteiro.com-335EEA)](https://rcmonteiro.com) 
 
-
 An experienced Software Engineer with a solid trajectory of over two decades in the technology industry, excelling in both full-stack development and strategic leadership. Expertise in a wide range of technologies including TypeScript, React.js, Next.js, Node.js, Nest.js, Tailwind CSS, Docker, CI/CD, AWS, Python, and Git. Technical foundation is complemented by in-depth knowledge of Machine Learning, TDD, SOLID principles, DDD, and agile methodologies.
 
 In recent years, focused on leading multidisciplinary teams in digital product development, emphasizing architecture, testing, and observability. Currently, the career is being redirected towards an individual contributor role as a Software Engineer, focusing on TypeScript development for both backend and frontend.
@@ -15,7 +14,6 @@ In recent years, focused on leading multidisciplinary teams in digital product d
 - **Strategic Vision:** For the past 6 years, combined the roles of Software Engineer and Tech Product Manager, acting with a more strategic vision in digital product development, focusing on delivering results, speed, and success metrics analysis.
 
 A recent and significant achievement is the decision to refocus on individual contribution as a software engineer. After experiencing all areas of digital product development, a passion for software development was reaffirmed. This career direction change, aligning with what is most loved, is a new and important achievement.
-
 
 
 # Tech Stack:
