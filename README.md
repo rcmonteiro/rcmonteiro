@@ -1,6 +1,8 @@
 # About me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-monteiro) 
+[![Site](https://img.shields.io/badge/rcmonteiro.com-335EEA)](https://rcmonteiro.com) 
+
 
 An experienced Software Engineer with a solid trajectory of over two decades in the technology industry, excelling in both full-stack development and strategic leadership. Expertise in a wide range of technologies including TypeScript, React.js, Next.js, Node.js, Nest.js, Tailwind CSS, Docker, CI/CD, AWS, Python, and Git. Technical foundation is complemented by in-depth knowledge of Machine Learning, TDD, SOLID principles, DDD, and agile methodologies.
 
