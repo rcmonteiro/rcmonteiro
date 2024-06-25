@@ -1,22 +1,19 @@
 # About me:
 
-Hey there! o/
-
-I'm Ricardo Monteiro, a technology enthusiast seeking challenges as a software engineer specializing in the TypeScript/Node/React stack.
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-monteiro) 
 
-# Career
+An experienced Software Engineer with a solid trajectory of over two decades in the technology industry, excelling in both full-stack development and strategic leadership. Expertise in a wide range of technologies including TypeScript, React.js, Next.js, Node.js, Nest.js, Tailwind CSS, Docker, CI/CD, AWS, Python, and Git. Technical foundation is complemented by in-depth knowledge of Machine Learning, TDD, SOLID principles, DDD, and agile methodologies.
 
-I have over two decades of professional experience with digital products.
+In recent years, focused on leading multidisciplinary teams in digital product development, emphasizing architecture, testing, and observability. Currently, the career is being redirected towards an individual contributor role as a Software Engineer, focusing on TypeScript development for both backend and frontend.
 
-**2000 - 2011:** I worked as a full-stack developer, using the PHP/jQuery/HTML/CSS stack.
+**Key Achievements:**
 
-**2011 - 2018:** I co-founded two startups: SitePX, a website builder (PHP/jQuery/MySQL/Nginx/Memcached/AWS), and Beracode, a community builder (Node/Angular/MongoDB/Nginx/Varnish/Redis/AWS). During this period, I served as CTO and also took on the role of team lead, managing the development teams.
+- **Startup Leadership:** Led the development of two startups from prototyping to cloud provisioning and monitoring. A highlight was the migration of the SitePX platform to the cloud, which had over 500,000 created accounts. This migration, highlighted at the AWS Summit 2012, resulted in a significant performance increase by utilizing S3, RDS, and a caching layer with Memcached.
+- **Entrepreneurial Experience:** Over 14 years of experience founding companies, creating startups, receiving investments, and launching new products.
+- **Strategic Vision:** For the past 6 years, combined the roles of Software Engineer and Tech Product Manager, acting with a more strategic vision in digital product development, focusing on delivering results, speed, and success metrics analysis.
 
-**2018 - 2024:** After SitePX closed and I left Beracode, I worked as a Product Manager at Contabilizei and Softplan, eventually becoming the Director of Digital Products at Talentify.
+A recent and significant achievement is the decision to refocus on individual contribution as a software engineer. After experiencing all areas of digital product development, a passion for software development was reaffirmed. This career direction change, aligning with what is most loved, is a new and important achievement.
 
-**2024:** This year, I asked myself what truly makes my eyes light up. The answer was clear: programming. I love being a developer. I decided to invest a quarter in studying to refresh my knowledge and earn new certifications. Now, my focus is to return to working as a developer.
 
 
 # Tech Stack:
