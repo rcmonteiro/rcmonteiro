@@ -26,6 +26,11 @@ A recent and significant achievement is the decision to refocus on individual co
   - [Nest Clean DDD (nestjs + clean architecture)](https://github.com/rcmonteiro/nest-clean-ddd)
   - [Solid API (fastify + solid principles)](https://github.com/rcmonteiro/solid-api)
   - [Travel Booking Hub (api gatewat + microservices)](https://github.com/rcmonteiro/travel-booking-hub)
+- Machine Learning (Python/Scikit-learn)
+  - [Linear Regression](https://github.com/rcmonteiro/curso-ia-rocketseat/blob/main/regressao_linear_simples/modelo_pontuacao.ipynb)
+  - [Multiple Linear Regression](https://github.com/rcmonteiro/curso-ia-rocketseat/blob/main/regressao_linear_multipla/modelo_colesterol.ipynb)
+  - [Polynomial Regression](https://github.com/rcmonteiro/curso-ia-rocketseat/blob/main/regressao_polinomial/modelo_salario.ipynb)
+  - [Decision Tree Classification](https://github.com/rcmonteiro/curso-ia-rocketseat/blob/main/arvore_decisao/classificacao_segmento_empresa.ipynb)
 
 
 # Tech Stack:
